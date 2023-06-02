@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(127, 224, 127);
+    color: black;
+    font-family: Verdana, sans-serif;
+}
+
+.header {
+    display: flex;
+    background: rgb(9, 122, 9);
+    color: white;
+    padding: 25px;
+    justify-content: stretch;
+}
+
+.header-links {
+    color: white;
+    justify-self: flex-end;
+}
+
+a {
+    color: white;
+}
